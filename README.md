@@ -34,12 +34,12 @@ This is a global issue too: the UN Global E-waste Monitor 2024 reports about 62 
 
 | Profile setup | Home |
 |---|---|
-| ![Profile setup screen](screenshots/01-profile-setup.jpg) | ![Home screen with points and hostel rank](screenshots/02-home.jpg) |
+| ![Profile setup screen](01-profile-setup.jpg) | ![Home screen with points and hostel rank](02-home.jpg) |
 | Choose a nickname and hostel. | Points, hostel rank and the main actions. |
 
 | Our Impact | Hostel Leaderboard |
 |---|---|
-| ![Our Impact screen](screenshots/03-our-impact.jpg) | ![Hostel leaderboard screen](screenshots/04-hostel-leaderboard.jpg) |
+| ![Our Impact screen](03-our-impact.jpg) | ![Hostel leaderboard screen](04-hostel-leaderboard.jpg) |
 | Items collected and the materials they may contain. | Hostels ranked by points. |
 
 ## How it works
@@ -68,11 +68,11 @@ This is a global issue too: the UN Global E-waste Monitor 2024 reports about 62 
 
 | Role | Name | What they did |
 |---|---|---|
-| R1 | Ayush | [ADD ROLE] |
-| R2 | Keerthi | [ADD ROLE] |
+| R1 | Ayush | [team lead, problem research and interviews] |
+| R2 | Keerthi | UI/UX design, wireframes and branding (the logo and the green look) |
 | R3 | Suraj | App developer (App Inventor blocks) |
 | R4 | Charan | Backend: Google Sheet and Apps Script |
-| R5 | Nitin | [ADD ROLE] |
+| R5 | Nitin |testing, documentation, pitch, video or data insights (Flourish) |
 
 ## Known limitations
 
